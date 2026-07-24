@@ -11,6 +11,7 @@ I'm passionate about learning computer science from first principles, building p
 ### B.Tech Student | Artificial Intelligence & Data Science
 
 **Thakur College of Engineering & Technology (TCET), Mumbai**
+
 CGPA (First Year): 9.44/10.00
 
 ---
