@@ -71,7 +71,7 @@ The project is being developed in phases with proper documentation and version c
 
 ### Society for Data Science (S4DS), TCET
 
-Member
+Working Committee Member - Inhouse Domain
 
 Interested in technical collaboration, project development, workshops, and contributing to AI & Data Science initiatives.
 
